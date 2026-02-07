@@ -1,16 +1,27 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**jmr-lab/jmr-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I am a **software developer**, **engineer**, **project manager**, **business analyst**, and **data analyst** with **25 years of experience** in the tech industry. My journey has allowed me to wear many hats, contributing to various projects and leading teams towards success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Software Development**: Proficient in multiple programming languages and frameworks, I thrive on writing clean, efficient, and maintainable code.
+- **Project Management**: Experience in managing diverse projects, ensuring timely delivery with high-quality outcomes.
+- **Business Analysis**: Expertise in understanding business needs and translating them into technical requirements.
+- **Data Analysis**: Strong analytical skills with a passion for interpreting data to drive decision-making.
+- **Mathematics Enthusiast**: My love for mathematics has always influenced my approach to problem-solving.
+
+## Current Goals
+
+I am currently completing a course in **Data Science** to enhance my skill set and dive deeper into the world of data-driven insights.
+
+## Achievements
+
+- **Time Magazine Person of the Year (2006)**: Recognized for my contributions and impact in technology and beyond, this honor fuels my passion for excellence.
+
+## Let's Connect
+
+I am always open to collaboration and sharing ideas. Feel free to reach out to me through my GitHub repositories.
+
+Thank you for visiting my profile!

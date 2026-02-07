@@ -11,6 +11,7 @@ Hello! I am a **software developer**, **engineer**, **project manager**, **busin
 - **Business Analysis**: Expertise in understanding business needs and translating them into technical requirements.
 - **Data Analysis**: Strong analytical skills with a passion for interpreting data to drive decision-making.
 - **Mathematics Enthusiast**: My love for mathematics has always influenced my approach to problem-solving.
+- **Attention to Detail**: I have a strong commitment to precision across all aspects of my work. Whether ensuring zero bugs in software development, delivering flawless project outcomes, or providing bulletproof mathematical demonstrations, I believe that **great work is built on an unwavering focus on the details**.
 
 ## Current Goals
 

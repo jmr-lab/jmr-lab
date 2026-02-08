@@ -15,7 +15,7 @@ Hello! I am a **software engineer**, **developer**, **project manager**, **datab
 ## Professional Values
 
 - **Attention to Detail**: I have a strong commitment to precision across all aspects of my work. Whether ensuring zero bugs in software development, delivering flawless project outcomes, or providing bulletproof mathematical demonstrations, I believe that **great work is built on an unwavering focus on the details**.
-- **Teamwork Philosophy**: I believe that we achieve better results when we work in a positive team environment where happiness and serious work go hand in hand. By fostering collaboration and a supportive atmosphere, we can drive innovation and excel in our endeavors.
+- **Teamwork Philosophy**: I believe that we achieve better results when we work in a positive team environment where happiness and serious work go hand in hand. By fostering collaboration and a supportive atmosphere, we can drive innovation and excel in our endeavours.
 
 ## Current Goals
 

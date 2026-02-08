@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I am a **software engineer**, **developer**, **project manager**, **business analyst** and **data analyst** with **25 years of experience** in the tech industry. My journey has allowed me to wear many hats, contributing to various projects and leading teams towards success.
+Hello! I am a **software engineer**, **developer**, **project manager**, **database administrator**, **business analyst** and **data analyst** with **25 years of experience** in the tech industry. My journey has allowed me to wear many hats, contributing to various projects and leading teams towards success.
 
 ## Skills
 

@@ -23,7 +23,7 @@ I am currently completing a course in **Data Science** to enhance my skill set a
 
 ## Achievements
 
-- **Time Magazine Person of the Year (2006)**: Recognized for my contributions and impact in technology and beyond, this honor fuels my passion for excellence.
+- **Time Magazine Person of the Year (2006)**: Recognized for my contributions and impact in technology and beyond, this honour fuels my passion for excellence.
 
 ## Let's Connect
 

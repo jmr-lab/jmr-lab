@@ -19,7 +19,7 @@ Hello! I am a **software engineer**, **developer**, **project manager**, **datab
 
 ## Current Goals
 
-I am currently completing a course in **Data Science** to enhance my skill set and dive deeper into the world of data-driven insights.
+Building an ongoing Formula 1 analytics project in R (DA)—working toward a framework to calculate “the best driver of all time,” starting with advanced EDA and evolving into modelling/prediction methods.
 
 ## Achievements
 

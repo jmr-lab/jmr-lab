@@ -2,14 +2,14 @@
 
 ## About Me
 
-Hello! I am a **software engineer**, **developer**, **project manager**, **database administrator**, **business analyst** and **data analyst** with **25 years of experience** in the tech industry. I hold a **Master's degree in Electrical Engineering with a specialization in Software Engineering**. My journey has allowed me to wear many hats, contributing to various projects and leading teams towards success.
+Hello! I am a **software engineer**, **developer**, **project manager**, **database administrator**, **business analyst** and **data analyst** with **25 years of experience** in the tech industry. I hold a **Master's degree in Electrical Engineering with a specialisation in Software Engineering** and I completed my **HarvardX Data Science certification** (R development). I’m also actively building practical analytics work using **SQL, Excel/Power Query, Power BI, and Python/R**. My journey has allowed me to wear many hats, contributing to various projects and leading teams towards success.
 
 ## Skills
 
-- **Software Development**: Proficient in multiple programming languages and frameworks, I thrive on writing clean, efficient, and maintainable code.
-- **Project Management**: Experience in managing diverse projects, ensuring timely delivery with high-quality outcomes.
-- **Business Analysis**: Expertise in understanding business needs and translating them into technical requirements.
-- **Data Analysis**: Strong analytical skills with a passion for interpreting data to drive decision-making.
+- **Analytics Engineering / BI**: metrics & KPI definition, reporting automation, data modelling, validation/reconciliation
+- **Technical Business Analysis**: requirements translation, process-to-data mapping, documentation for delivery and stakeholder alignment
+- **Data & Programming**: SQL, Python (ETL/analysis), R (data science), Excel/Power Query
+- **Engineering & Delivery**: enterprise application delivery, maintainable design, incident support
 - **Mathematics Enthusiast**: My love for mathematics has always influenced my approach to problem-solving.
 
 ## Professional Values
@@ -23,7 +23,7 @@ I am currently completing a course in **Data Science** to enhance my skill set a
 
 ## Achievements
 
-- **Time Magazine Person of the Year (2006)**: Recognized for my contributions and impact in technology and beyond, this honour fuels my passion for excellence.
+- **Time Magazine Person of the Year (2006)**: Recognised for my contributions and impact in technology and beyond, this honour fuels my passion for excellence.
 
 ## Let's Connect
 

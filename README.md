@@ -25,6 +25,11 @@ Building an ongoing Formula 1 analytics project in R (DA)—working toward a fra
 
 - **Time Magazine Person of the Year (2006)**: Recognised for my contributions and impact in technology and beyond, this honour fuels my passion for excellence.
 
+## Featured Projects
+
+- [Thermometer Chart — Project Progress Analysis](https://github.com/jmr-lab/Thermometer-Chart)  
+  A lightweight Excel and Python project that visualises multiple project-performance measures in a single graph: project progress against TCV, project progress against baseline, planned progress against baseline, and current TCV against baseline TCV.
+
 ## Let's Connect
 
 I am always open to collaboration and sharing ideas. Feel free to reach out to me through my GitHub repositories.

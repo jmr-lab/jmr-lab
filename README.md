@@ -4,6 +4,8 @@
 
 Hello! I am a **software engineer**, **developer**, **project manager**, **database administrator**, **business analyst** and **data analyst** with **25 years of experience** in the tech industry. I hold a **Master's degree in Electrical Engineering with a specialisation in Software Engineering** and I completed my **HarvardX Data Science certification** (R development). I’m also actively building practical analytics work using **SQL, Excel/Power Query, Power BI, and Python/R**. My journey has allowed me to wear many hats, contributing to various projects and leading teams towards success.
 
+About the profile picture: The image is AI-generated and should not be mistaken for a photograph of me. It is an artistic interpretation of my profile—and, naturally, a somewhat less attractive version of the original. 
+
 ## Skills
 
 - **Analytics Engineering / BI**: metrics & KPI definition, reporting automation, data modelling, validation/reconciliation

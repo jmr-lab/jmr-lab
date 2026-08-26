@@ -30,6 +30,15 @@ Building an ongoing Formula 1 analytics project in R (DA)—working toward a fra
 - [Thermometer Chart — Project Progress Analysis](https://github.com/jmr-lab/Thermometer-Chart)  
   A lightweight Excel and Python project that visualises multiple project-performance measures in a single graph: project progress against TCV, project progress against baseline, planned progress against baseline, and current TCV against baseline TCV.
 
+- [Movie Rating Predictions — HarvardX Data Science Capstone (PH125.9x)](https://github.com/jmr-lab/PH125.9x-Data-Science-MovieLens/blob/main/MovieLens.pdf)  
+  A HarvardX Data Science capstone project focused on predicting movie ratings using the MovieLens dataset and statistical learning techniques.
+
+- [AI-Driven Cost Predictor in the Non-Life Insurance Sector — HarvardX Data Science Capstone (PH125.9x)](https://github.com/jmr-lab/PH125.9x-Data-Science-CarInsurance/blob/main/CarInsuranceReport.pdf)  
+  A HarvardX Data Science capstone project exploring the use of machine learning to predict costs in the non-life insurance sector.
+
+- [Formula 1 Analytics Project in R — Work in Progress](https://github.com/jmr-lab/Formula-1/blob/main/Formula1.pdf)  
+  An ongoing personal project developed in R during my spare time. The project aims to analyse Formula 1 data and develop a framework for assessing the best driver of all-time. It is currently in draft form and progressing incrementally.
+
 ## Let's Connect
 
 I am always open to collaboration and sharing ideas. Feel free to reach out to me through my GitHub repositories.

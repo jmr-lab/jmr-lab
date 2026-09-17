@@ -41,6 +41,9 @@ Building an ongoing Formula 1 analytics project in R (DA)—working toward a fra
 - [Formula 1 Analytics Project in R — Work in Progress](https://github.com/jmr-lab/Formula-1/blob/main/Formula1.pdf)  
   An ongoing personal project developed in R during my spare time. The project aims to analyse Formula 1 data and develop a framework for assessing the best driver of all-time. It is currently in draft form and progressing incrementally.
 
+- [Thermometer Chart — Project Progress Analysis](https://github.com/jmr-lab/Thermometer-Chart)  
+  An ETL pipeline that transforms raw Ergast F1 CSV data into an analytics-ready dataset for Formula 1 analytics and driver GOAT analysis.
+
 ## Let's Connect
 
 I am always open to collaboration and sharing ideas. Feel free to reach out to me through my GitHub repositories.
